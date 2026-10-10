@@ -60,17 +60,18 @@ Direct commits to OSP or OOC are detected and opened as PRs back to `Interested-
 | [@hagen1778](https://github.com/hagen1778) | 8 |
 | [@AndrewChubatiuk](https://github.com/AndrewChubatiuk) | 5 |
 | [@tenmozes](https://github.com/tenmozes) | 4 |
-| [@ernado](https://github.com/ernado) | 1 |
-| [@dmitryk-dk](https://github.com/dmitryk-dk) | 1 |
-| [@alicebob](https://github.com/alicebob) | 1 |
-| [@imorph](https://github.com/imorph) | 1 |
-| [@lammel](https://github.com/lammel) | 1 |
-| [@vtolstov](https://github.com/vtolstov) | 1 |
-| [@zekker6](https://github.com/zekker6) | 1 |
-| [@aierui](https://github.com/aierui) | 1 |
-| [@sequix](https://github.com/sequix) | 1 |
-| [@xsteadfastx](https://github.com/xsteadfastx) | 1 |
 | [@zhengtianbao](https://github.com/zhengtianbao) | 1 |
+| [@xsteadfastx](https://github.com/xsteadfastx) | 1 |
+| [@sequix](https://github.com/sequix) | 1 |
+| [@aierui](https://github.com/aierui) | 1 |
+| [@zekker6](https://github.com/zekker6) | 1 |
+| [@vtolstov](https://github.com/vtolstov) | 1 |
+| [@lammel](https://github.com/lammel) | 1 |
+| [@imorph](https://github.com/imorph) | 1 |
+| [@Interested-Deving-1896](https://github.com/Interested-Deving-1896) | 1 |
+| [@alicebob](https://github.com/alicebob) | 1 |
+| [@dmitryk-dk](https://github.com/dmitryk-dk) | 1 |
+| [@ernado](https://github.com/ernado) | 1 |
 <!-- AI:end:contributors -->
 
 ## Origins
